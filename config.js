@@ -39,58 +39,59 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true],
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true]
+['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true],
+['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166285'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6282334703987'
+global.nomorown = '6285730794089'
+global.nomorown1 = '6285730794089'
+global.nomorown2 = '6285730794089'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.author = 'Created By 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃✓'
+global.namebot = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ '
+global.wm2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
-global.stickpack = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
+global.titlebot = `𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
+global.stickpack = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+'
+global.stickauth = `© 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.nameown2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nameown1= '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.nameown2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/kahfi.xd'
+global.lynk = 'https://lynk.id/gilzzx'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kahfiofc0'
-global.sgh = 'https://github.com/Frezzy-XD' //github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
+global.sig = 'https://instagram.com/rdtyzagilz'
+global.sgh = 'https://github.com/gilzzbot' //github
+global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0853-8016-6282'
+global.pdana = '085730794089'
 global.povo = '-'
-global.pgopay = '-'
+global.pgopay = '085730794089'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '085730794089'
+global.ppulsa2 = '081357580863'
+global.psaweria = 'https://saweria.co/gilzzbotz'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -304,16 +305,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/rdtyzagilz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085380166282'
+global.phn = '085730794089'
 
 global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.thumbdoc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
